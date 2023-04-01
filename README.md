@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @dark-king-001
-- 👀 I’m interested in Development of new logics and softwares
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Projects
+- 👋 Hi, I’m piyush_Kumar and my account is working on @dark-king-001
+- 👀 I’m interested in Development of new tools and technologies
+- 🌱 I’m currently participating hackthons and working on personal project. I am available to be hired for company projects
+- 💞️ I’m looking to collaborate on Projects and technologies
 - 📫 mail piyushat115@gmail.com
-
-<!---
-dark-king-001/dark-king-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
