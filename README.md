@@ -39,12 +39,4 @@ contact me at [portfolio](https://piyushkumar.me)
 
 ---
 
-## 📫 Connect with Me
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/piyush-kumar-4199a5202/)
-- 🐦 [Twitter](https://x.com/SamaMaou67248)
-- 📸 [Instagram](https://www.instagram.com/ipiyushkumar001/)
-- 📧 Email: piyushat115@gmail.com  
-- 💼 [Portfolio Website](https://piyushkumar.me)
-
 I am always open to collaboration and new opportunities! Feel free to check out my repositories and connect with me. Let's innovate and build something amazing together! 🚀
