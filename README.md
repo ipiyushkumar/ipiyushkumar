@@ -36,11 +36,9 @@ Contact me at my [portfolio](https://piyushkumar.me).
 
 ### 🎓 Academic & Algorithmic Projects
 
-*(No specific repositories found in this category based on the provided data.)*
 
 ### 🛠️ Tools, Scripts & Utilities
 
-*(No specific repositories found in this category based on the provided data.)*
 
 ---
 
