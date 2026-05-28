@@ -1,63 +1,93 @@
-## 👋 Hello, I'm Piyush Kumar!
+# 👋 Hi, I'm Piyush Kumar
 
-I'm a passionate **software developer, problem solver, and technology enthusiast** with a strong interest in building scalable applications, automation tools, and innovative software solutions. I enjoy tackling complex problems and continuously expanding my knowledge in the ever-evolving field of technology. 🚀
+**Full Stack Developer | Google Cloud DevOps Engineer | Cloud-native app builder**
 
-Contact me at my [portfolio](https://piyushkumar.me).
+I build scalable web apps, backend APIs, automation systems, and deployment pipelines. My recent work focuses on **Next.js**, **React**, **Node.js/Express**, **FastAPI**, **Docker**, and **Google Cloud Run**.
 
----
-
-## 📌 About Me
-
-- 💻 Proficient in **software/web development, debugging, and optimization**
-- 🎓 **Computer Science student** with a keen interest in developing and automating systems
-- 🛠️ Currently working on a **SaaS product and automation tools** to enhance productivity at **Alphanumeric Ideas**
-- 📖 Constantly learning about **cloud computing, DevOps, and machine learning**
-- ⚡ Fun fact: I am equally passionate about **fitness, technology, and self-improvement**
+- 🔭 Currently building SaaS products, admin systems, and automation tools
+- ☁️ Strong focus on Docker-based CI/CD, Cloud Run deployments, and production reliability
+- ⚙️ Interested in operating systems, compilers, cloud computing, APIs, and database design
+- 🤝 Led interns and shipped production features across full-stack products
+- 📫 Reach me: [piyushat115@gmail.com](mailto:piyushat115@gmail.com)
 
 ---
 
-## 📂 My Projects & Repositories
+## 🧰 Tech Stack
 
-### 🖥️ Web Development & Software Engineering
+**Languages**
 
-- [🚀 VichaarShala](https://github.com/ipiyushkumar/VichaarShala)  
-  A platform inspired by the original Twitter, created to share thoughts globally. Developed to continue the essence of idea-sharing in a post-Twitter era. :contentReference[oaicite:0]{index=0}
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-- [🎨 Paint_Shapes](https://github.com/ipiyushkumar/Paint_Shapes)  
-  An interactive application allowing users to draw and manipulate shapes, enhancing creativity and design skills.
+**Frontend**
 
-- [🐍 Snake_Game](https://github.com/ipiyushkumar/Snake_Game)  
-  A modern take on the classic Snake game, featuring WASD movement, high score tracking, and a unique leveling system that increases difficulty as the snake grows. :contentReference[oaicite:1]{index=1}
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=react&logoColor=white)
 
-### 🤖 Automation & SaaS Solutions
+**Backend & APIs**
 
-- [🕸️ Scraper](https://github.com/ipiyushkumar/Scraper)  
-  A web scraper built using the aria2c module and subprocesses, designed for efficient multi-threaded data extraction from various websites. :contentReference[oaicite:2]{index=2}
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🎓 Academic & Algorithmic Projects
+**Cloud, DevOps & DB**
 
-
-### 🛠️ Tools, Scripts & Utilities
-
-
----
-
-## 📈 Skills & Technologies
-
-- **Programming Languages**: Python, JavaScript, C++, Java
-- **Web Development**: HTML, CSS, React, Node.js, Django
-- **Databases**: MySQL, MongoDB, BigQuery
-- **DevOps & Cloud**: Docker, AWS, GitHub Actions
-- **Machine Learning**: TensorFlow, Scikit-Learn, OpenCV
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📫 Connect with Me
+## 💼 Experience
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/piyush-kumar-4199a5202)
-- 🐦 [X (formerly Twitter)](https://x.com/@SamaMaou67248)
-- 📸 [Instagram](https://www.instagram.com/ipiyushkumar001)
-- 📧 Email: piyush@example.com
-- 💼 [Portfolio Website](https://piyushkumar.me)
+### Full Stack Developer — Alphanumeric Ideas
+**Feb 2025 – May 2026 | Mohali, Punjab**
 
-I am always open to collaboration and new opportunities! Feel free to check out my repositories and connect with me. Let's innovate and build something amazing together! 🚀
+- Built Node.js/Express microservices, improving API response time by ~25% and reducing server load by ~30%.
+- Led 2 interns while shipping a YouTube API feature using React and Zustand.
+- Optimized MySQL queries, reducing page load times by ~15%.
+
+### Full Stack Developer Intern — Alphanumeric Ideas
+**Nov 2024 – Jan 2025 | Mohali, Punjab**
+
+- Built responsive UIs with Next.js.
+- Added automated testing workflows with Jest and Enzyme.
+- Worked in agile delivery using ClickUp and iterative release cycles.
+
+---
+
+## 🚀 Featured Work
+
+### [ArtOfAds.ai](https://artofads.ai)
+Shopify-focused SaaS platform using **Next.js**, **Node.js**, Shopify GraphQL API, and Google Ads API.
+
+### [notes.Infronyx.com](https://notes.infronyx.com)
+Free note-taking dashboard with real-time sync and Docker/GCP CI/CD pipeline.
+
+### OpenFreezeCenter
+Thermal/fan-control tooling for MSI laptops using Python and Linux EC access.
+
+### [openControlPanel](https://github.com/ipiyushkumar/openControlPanel)
+Python Tkinter server command/control panel using subprocesses and signals.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ipiyushkumar&show_icons=true&theme=tokyonight&hide_border=true" alt="Piyush Kumar GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipiyushkumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 📫 Connect
+
+- GitHub: [github.com/ipiyushkumar](https://github.com/ipiyushkumar)
+- LinkedIn: [linkedin.com/in/ipiyushkumar001](https://www.linkedin.com/in/ipiyushkumar001/)
+- Email: [piyushat115@gmail.com](mailto:piyushat115@gmail.com)
+
+Open to full-stack, cloud, DevOps, and SaaS product work.
